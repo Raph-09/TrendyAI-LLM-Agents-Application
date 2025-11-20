@@ -1,8 +1,9 @@
 # TrendyAI Documentation
 
 ## Overview
-TrendyAI is an application that leverages AI to fetch and present trending topics in the tech domain. It uses the crewai library, Google Generative AI, and Streamlit for the web interface. This application enables users to input a tech-related topic and get a concise report on the latest trends related to that topic.
+TrendyAI is an agentic application that leverages artificial intelligence to identify, fetch, and present trending topics within the technology domain. By integrating the CrewAI library and Google Generative AI, the system can autonomously analyze large volumes of data and generate insightful summaries that highlight the most relevant and current trends in tech. The application features a user-friendly web interface built with Streamlit, allowing users to easily interact with the platform.
 
+With TrendyAI, users can input any technology-related topic, and the application will process the request to deliver a concise, well-structured report on the latest developments and emerging trends associated with that topic. This functionality empowers tech enthusiasts, researchers, and professionals to stay up-to-date with rapidly evolving areas in technology, make informed decisions, and discover new opportunities. By combining advanced AI capabilities with an accessible interface, TrendyAI provides a seamless experience for tracking and understanding tech trends efficiently.
 ## Installation
 
 1. **Clone the repository:**
