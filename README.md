@@ -1,7 +1,7 @@
 # TrendyAI Documentation
 
 ## Overview
-TrendyAI is an application that leverages AI to fetch and present trending topics in the tech domain. It uses the LangChain library, Google Generative AI, and Streamlit for the web interface. This application enables users to input a tech-related topic and get a concise report on the latest trends related to that topic.
+TrendyAI is an application that leverages AI to fetch and present trending topics in the tech domain. It uses the crewai library, Google Generative AI, and Streamlit for the web interface. This application enables users to input a tech-related topic and get a concise report on the latest trends related to that topic.
 
 ## Installation
 
